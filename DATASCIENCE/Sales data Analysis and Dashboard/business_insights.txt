@@ -1,0 +1,17 @@
+SALES DATA ANALYSIS - BUSINESS INSIGHTS
+=============================================
+Total Sales: 2,660,000.62
+Total Profit: 450,183.27
+Total Orders: 3,880.00
+Total Quantity: 11,668.00
+Customers: 1,396.00
+Average Order Value: 685.57
+Profit Margin %: 16.92
+
+1. Highest-selling category : Electronics ($2,088,190, 78.5% of sales)
+2. Best-performing region   : North ($796,879, 30.2% of sales)
+3. Best-selling product     : Laptop ($1,030,467); lowest: Notebook Pack ($8,786)
+4. Highest sales month      : October 2023 ($284,632); lowest: February 2023
+5. Most profitable category : Electronics; most profitable product: Laptop
+6. Sales trend              : increasing (first 3 months avg $162,157 -> last 3 months avg $278,450)
+7. Overall profit margin    : 16.9%; average order value $685.57
