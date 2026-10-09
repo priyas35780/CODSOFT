@@ -1,0 +1,9 @@
+BUSINESS INSIGHTS
+1. Total sales: $77,146.30 across 1000 transactions (avg $77.15).
+2. Top category by revenue: Electronics ($33,430.27); lowest: Beverages.
+3. Top category by quantity: Food. Compare with revenue ranking: high quantity does not always mean high revenue.
+4. Most used payment method: Cash (458 transactions).
+5. Member customers generate more sales (63% of revenue).
+6. Best day: 2023-01-29 ($4,015.88); weakest day: 2023-01-12 ($753.36).
+RECOMMENDATIONS: stock more of the top categories, promote loyalty membership,
+support the leading payment methods, and run promotions on historically slow days.
